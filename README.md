@@ -61,7 +61,7 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
  - [GoRails](https://gorails.com/github-students) - 01 ano grátis.
  - [Alteryx](https://www.alteryx.com/pt-br/sparked/students) - 01 ano grátis.
  - [Qlik](https://www.qlik.com/us/academicprogram) - 01 ano grátis.
-- **TIC em Trilhas – Cursos 100 % online e gratuitos** – (https://ticemtrilhas.org.br/)
+- **TIC em Trilhas – Cursos 100 % online e gratuitos** – https://ticemtrilhas.org.br/
 
 
 ## Comprovando que você é estudante!
